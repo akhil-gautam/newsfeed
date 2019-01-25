@@ -18,9 +18,5 @@ Newsfeed is a Ruby on Rails application which can deliver you daily mails based 
 * Go to 'localhost:whatever_port/users/new' and enter the details after which you will get confirmation mail on the entered 
   e-mail ID with the link to confirm your subscription.
 
-# **********************************************************************
-
-# DISCLAIMER: Use it for educational purpose only. Don't use it in production.
-
 
 # Contributions are welcomed. Please add your pull requests for that.
